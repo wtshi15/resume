@@ -1,6 +1,8 @@
 # Resume
-Resume Static Webpage
-Basic resume info in a digital format for easy viewing
-Hosts static webpage on github pages
+Resume Webpage on Github Pages
+
+
+Downloadable pdf, info about me!
+
 
 https://wtshi15.github.io/resume/
